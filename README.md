@@ -12,6 +12,12 @@
 <img src="https://komarev.com/ghpvc/?username=photonmastr&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ 
+  I'm Tristan
+  I code a bit
+  not very good at it..
+  if i make projects in the future they will be here.
+  I know like some css, html, js, python, rust, c, c#. 
+  yeah
+  bye!
 
