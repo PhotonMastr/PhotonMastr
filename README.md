@@ -17,7 +17,7 @@
   I code a bit
   not very good at it..
   if i make projects in the future they will be here.
-  I know like some css, html, js, python, rust, c, c#. 
-  yeah
-  bye!
+  I know very little CSS and HTML. Some C and quite a bit of Rust
+I'm also now learning python. Kinda wish I learned sooner though.
+
 
