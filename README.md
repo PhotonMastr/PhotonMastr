@@ -11,13 +11,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=photonmastr&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey There!
- 
-  I'm Tristan
-  I code a bit
-  not very good at it..
-  if i make projects in the future they will be here.
-  I know very little CSS and HTML. Some C and quite a bit of Rust
-I'm also now learning python. Kinda wish I learned sooner though.
+
+Hey there! I'm Tristan.
+I code in C, Rust, and Python.
+
+My main project is ConvertU.
+ConvertU is a converter program for all sorts of units, Centimetres, Feet, MPH, KPH, Fahrenheit, Celsius, Tons, Kilograms, Kilobytes, Gigabytes. Anything Mass, Digital Storage, Length, Speed, Or Temperature ConvertU covers.
+
+Currently ConvertU is in an early stage but there will be a GUI version and there will be more units and unit types
 
 
