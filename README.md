@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, Rust, Python, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/photonmastr/](https://github.com/photonmastr/)
+- 👨‍💻 All of my projects are available here!
 
 - 📫 How to reach me **My twitter is on my github. You can just @ me on twitter if you need to contact me for some reason.**
 
