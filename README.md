@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ConvertU-CLI](https://github.com/photonmastr/ConvertU-CLI)
 
-- 🌱 I’m currently learning **C, Rust, Python, HTML, CSS**
+- 🌱 I’m currently learning **C, Python, C++**
 
 - 👨‍💻 All of my projects are available here!
 
