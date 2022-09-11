@@ -23,4 +23,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/655147160190320651/1015101775570796575/6132222.png" alt="C++" width="40" height="40"/> </a
+<a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/655147160190320651/1015101775570796575/6132222.png" alt="C++" width="40" height="40"/> </a>
+
+
+<h3 align="left">Stats:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=photonmastr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Most used langs:</h3>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=photonmastr&hide=ruby&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
